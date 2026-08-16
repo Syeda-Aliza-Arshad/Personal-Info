@@ -72,7 +72,7 @@ The project focuses on building a complete digital storefront, from product pres
 **Technologies & Areas:**
 `HTML` `CSS` `JavaScript` `E-Commerce` `Chatbot` `AI`
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syeda-Aliza-Arshad/Haya-Co)
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syeda-Aliza-Arshad/TheHaya-Co)
 ---
 
 ## 📊 What I Work On
@@ -125,19 +125,6 @@ I enjoy learning new technologies, exploring ideas, collaborating on projects, a
 
 For me, every project is an opportunity to learn something new and turn that knowledge into something useful.
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syeda-Aliza-Arshad&show_icons=true&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Aliza-Arshad&layout=compact&hide_border=true" width="48%" />
-</p>
-
-## 🔥 Contribution Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Syeda-Aliza-Arshad&hide_border=true" width="60%" />
-</p>
-
 ---
 
 ## 🤝 Let's Connect
@@ -148,7 +135,7 @@ I'm open to **collaboration, interesting projects, learning opportunities, and c
  <a href="https://www.linkedin.com/in/syedaalizaarshad/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-  <a href="mailto:syedaalizaarshad@gmail.com">
+ <a href="mailto:syedaalizaarshad@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
