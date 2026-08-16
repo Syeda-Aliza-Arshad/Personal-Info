@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="WhatsApp Image 2026-08-16 at 4.11.31 PM" width="100%" />
+  <img src="./profile-banner.png" width="100%" />
 </p>
 
 # Hi, I'm Syeda Aliza Arshad 👋
