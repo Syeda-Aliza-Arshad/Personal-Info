@@ -23,8 +23,6 @@ I believe the best way to learn technology is by **building things**, which is w
 
 ## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
-
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -74,7 +72,7 @@ The project focuses on building a complete digital storefront, from product pres
 **Technologies & Areas:**
 `HTML` `CSS` `JavaScript` `E-Commerce` `Chatbot` `AI`
 
-[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)]([YOUR_HAYA_CO_REPOSITORY_URL](https://github.com/Syeda-Aliza-Arshad/TheHaya-Co))
+[(https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Syeda-Aliza-Arshad/TheHaya-Co))
 ---
 
 ## 📊 What I Work On
@@ -130,16 +128,15 @@ For me, every project is an opportunity to learn something new and turn that kno
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Syeda-Aliza-Arshad&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Aliza-Arshad&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Syeda-Aliza-Arshad&show_icons=true&theme=transparent&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Aliza-Arshad&layout=compact&theme=transparent&hide_border=true&count_private=true" height="170" />
 </p>
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Syeda-Aliza-Arshad&theme=transparent&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Syeda-Aliza-Arshad&theme=transparent&hide_border=true" height="170" />
 </p>
-
 ---
 
 ## 🤝 Let's Connect
@@ -147,7 +144,7 @@ For me, every project is an opportunity to learn something new and turn that kno
 I'm open to **collaboration, interesting projects, learning opportunities, and conversations around Data Science, AI, Machine Learning, and Cybersecurity**.
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/syedaalizaarshad/)">
+  <a href="(https://www.linkedin.com/in/syedaalizaarshad/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:syedaalizaarshad@gmail.com">
