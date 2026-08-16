@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Profile.png" width="100%" height="182"/>
+  <img src="./Profile.png" width="100%" height="250"/>
 </p>
 
 # Hi, I'm Syeda Aliza Arshad 👋
