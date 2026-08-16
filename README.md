@@ -23,54 +23,35 @@ I believe the best way to learn technology is by **building things**, which is w
 
 ## 🛠️ Technical Skills
 
-### Programming & Development
+## 🛠️ Tech Stack
 
-**Python** • **SQL** • **Java** • **HTML** • **CSS**
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 ### Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**Pandas** • **NumPy** • **Scikit-learn** • **Machine Learning** • **Data Analysis**
+### Visualization
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Data Visualization
+### Web & Development
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Power BI** • **Excel** • **Data Visualization**
-
-### Web & Backend
-
-**Flask** • **REST APIs**
-
-### Tools & Technologies
-
-**Git** • **GitHub** • **Jupyter Notebook**
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
 ## 🚀 Featured Project
-
-### 🛡️ ThreatGuard-AI
-
-**AI-Powered Network Threat Detection & Security Monitoring**
-
-ThreatGuard-AI is a machine-learning-based cybersecurity solution designed to detect network threats and provide real-time security monitoring.
-
-The project combines **machine learning, network traffic analysis, cybersecurity, and AI-powered assistance** into a single security platform.
-
-**Key Features**
-
-* 🔍 Real-time network traffic monitoring
-* 🤖 Machine learning-based threat detection
-* 🛡️ Detection of TCP SYN Flood and UDP Flood attacks
-* 📊 Security Operations Center-style dashboard
-* 🚨 Threat severity scoring and attack monitoring
-* 🔒 IP and subnet blocking
-* 🤖 AI Security Copilot
-* 📄 Automated incident report generation
-* ⚡ Lightweight Linux-based deployment
-
-**Technologies:**
-`Python` `Scikit-learn` `Flask` `NFStream` `Machine Learning` `Linux` `Chart.js`
-
----
 
 ### 🧕 Haya & Co
 
@@ -93,9 +74,7 @@ The project focuses on building a complete digital storefront, from product pres
 **Technologies & Areas:**
 `HTML` `CSS` `JavaScript` `E-Commerce` `Chatbot` `AI`
 
-**Focus:**
-Building a modern online shopping experience that combines **e-commerce, user experience, and AI-powered customer support**.
-
+[![View Project](https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github&logoColor=white)]([YOUR_HAYA_CO_REPOSITORY_URL](https://github.com/Syeda-Aliza-Arshad/TheHaya-Co))
 ---
 
 ## 📊 What I Work On
@@ -148,10 +127,32 @@ I enjoy learning new technologies, exploring ideas, collaborating on projects, a
 
 For me, every project is an opportunity to learn something new and turn that knowledge into something useful.
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Syeda-Aliza-Arshad&show_icons=true&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Syeda-Aliza-Arshad&layout=compact&theme=transparent&hide_border=true" height="170" />
+</p>
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Syeda-Aliza-Arshad&theme=transparent&hide_border=true" />
+</p>
+
 ---
 
 ## 🤝 Let's Connect
 
 I'm open to **collaboration, interesting projects, learning opportunities, and conversations around Data Science, AI, Machine Learning, and Cybersecurity**.
+
+<p align="center">
+  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/syedaalizaarshad/)">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:syedaalizaarshad@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ### Thanks for visiting my profile!
