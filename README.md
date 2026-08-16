@@ -135,9 +135,9 @@ I'm open to **collaboration, interesting projects, learning opportunities, and c
  <a href="https://www.linkedin.com/in/syedaalizaarshad/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
- <a href="mailto:syedaalizaarshad@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=syedaalizaarshad@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 </p>
 
 ### Thanks for visiting my profile!
