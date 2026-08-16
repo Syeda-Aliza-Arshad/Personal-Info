@@ -1,15 +1,19 @@
-<p align="top-left">
-  <img src="./profile-banner.png" width="40%" height="350" />
-</p>
-
-# Hi, I'm Syeda Aliza Arshad 👋
-
-### Data Science Student | Machine Learning | AI | Data Analytics
-
-I'm a **Data Science student** with a strong interest in **Machine Learning, Artificial Intelligence, Data Analytics, and Cybersecurity**. I enjoy turning data and ideas into practical solutions that can solve real-world problems.
-
-My work focuses on exploring data, developing machine learning models, building intelligent applications, and creating clear visualizations that make complex information easier to understand.
-
+<table>
+  <tr>
+    <td width="35%" align="center">
+      <img src="./profile-banner.png" width="250" />
+    </td>
+    <td width="65%">
+      <h1>Hi, I'm Syeda Aliza Arshad 👋</h1>
+      <h3>Data Science Student | Machine Learning | AI | Data Analytics</h3>
+      <p>
+        I'm a <strong>Data Science student</strong> with a strong interest in
+        <strong>Machine Learning, Artificial Intelligence, Data Analytics, and Cybersecurity</strong>.
+        I enjoy turning data and ideas into practical solutions that solve real-world problems.
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 👩🏻‍💻 About Me
