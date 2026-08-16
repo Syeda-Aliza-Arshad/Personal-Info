@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="WhatsApp Image 2026-08-16 at 4.11.31 PM" width="100%" />
+</p>
+
 # Hi, I'm Syeda Aliza Arshad 👋
 
 ### Data Science Student | Machine Learning | AI | Data Analytics
